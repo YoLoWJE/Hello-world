@@ -1,0 +1,3 @@
+#this is the python program
+def hello(string):
+  print(string)
